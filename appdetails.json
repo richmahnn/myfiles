@@ -1,23 +1,22 @@
 {
   "ads":"false",
   "update":[{
-    "version":"2.8.1600",
-    "title":"This app is now Open Source",
-    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
-    "size":"https://git.io/JeY69"
+    "version":"6.0",
+    "title":"VPN HUB",
+    "description":"VPN HUB - Free Unlimited VPN Proxy",
+    "size":"https://play.google.com/store/apps/details?id=com.lkmedia.vpnhub"
   }],
   "blocked":[
-    {"id":0, "app":"com.android.game"},
-    {"id":1, "app":"com.utorrent.client"},
-    {"id":2, "app":"com.torrent.client"},
-    {"id":3, "app":"com.tor.client"},
-    {"id":4, "app":"com.insta.client"},
-    {"id":5, "app":"com.facebook.client"},
-    {"id":6, "app":"com.get.client"}
+    {"id":0, "app":"com.utorrent.client"},
+    {"id":1, "app":"com.torrent.client"},
+    {"id":2, "app":"com.tor.client"},
   ],
   "free":[
-    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"Hamburg","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"b"},
-    {"id":2, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"c"}
+    {"id":0, "file":0, "city":"Singapore, SG1","country":"Singapore","image":"singapore","ip":"13.229.134.41","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"Singapore, SG2","country":"Singapore","image":"singapore","ip":"18.141.220.25","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"United States, Ashburn","country":"United States","image":"unitedstates","ip":"35.173.47.116","active":"true","signal":"a"},
+    {"id":3, "file":3, "city":"Tokyo, Japan","country":"Japan","image":"japan","ip":"52.197.36.161","active":"true","signal":"a"},
+    {"id":4, "file":4, "city":"Germany, Frankfurt","country":"Germany","image":"germany","ip":"3.121.181.176","active":"true","signal":"a"},
+    {"id":5, "file":5, "city":"Canada, Montreal","country":"Canada","image":"canada","ip":"3.96.1.210","active":"true","signal":"a"},
   ]
 }
